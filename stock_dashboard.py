@@ -292,8 +292,8 @@ for line in raw_input.strip().splitlines():
 symbols = list(stock_map.keys())
 
 # ── Header ────────────────────────────────────────────────────────────────────
-st.markdown('<div class="dashboard-title">📊 Indian Stock Returns</div>', unsafe_allow_html=True)
-st.markdown('<div class="dashboard-subtitle">NSE · Multi-period return heatmap · Powered by Yahoo Finance</div>', unsafe_allow_html=True)
+st.markdown('<div class="dashboard-title">📊 Indian Stock Returns Dashboard</div>', unsafe_allow_html=True)
+st.markdown('<div class="dashboard-subtitle">For Internal Research Only · Powered by Yahoo Finance</div>', unsafe_allow_html=True)
 
 # ── Load data ─────────────────────────────────────────────────────────────────
 if not symbols:
