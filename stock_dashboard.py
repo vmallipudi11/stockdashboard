@@ -114,7 +114,7 @@ hr { border-color: #1e2030; }
 DEFAULT_STOCKS = {
     "ULTRACEMCO":   "Ultratech Cement",
     "JKLAKSHMI":    "JK Lakshmi Cement",
-    "KOVAI":        "Kovai Medical Center",
+    "INOXWIND":        "INOX Wind",
     "NH":           "Narayana Hrudayalaya",
     "VIJAYA":       "Vijaya Diagnostic Centre",
     "LALPATHLAB":   "Dr. Lal PathLabs",
